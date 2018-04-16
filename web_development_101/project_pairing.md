@@ -29,6 +29,7 @@ Enough talk! Let's build!
 Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Don't forget to include your pair's github handle as well!
 
 * Add your solution below this line!
+* [leosoaivan's solution](https://github.com/leosoaivan/js-pomodoro) - [View in Browser](http://leosoaivan.com/js-pomodoro/)
 * [autumnchris's Solution](https://github.com/autumnchris/pomodoro-timer) - [View in Browser](https://autumnchris.github.io/pomodoro-timer)
 * [Jon Yoo's solution](https://github.com/jonyoowa/pomodoro-clock) - [View in Browser](https://jonyoowa.github.io/pomodoro-clock/)
 * [SarfrazAnjum's solution](https://github.com/SarfrazAnjum/pomodoro-technique)

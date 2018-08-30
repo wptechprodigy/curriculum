@@ -94,6 +94,7 @@ There are a couple of ways to go about doing this, but the simplest is this:
 Submit a pull request with a link to your solution in this [file](https://github.com/TheOdinProject/curriculum/edit/master/web_development_101/project_html_css.md) when your project is complete. See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.
 
 * Add your solution below this list
+* [Alan Bernstein's Solution (Easy)](https://github.com/Bernstein7z/google-homepage) - [View in Browser](https://bernstein7z.github.io/google-homepage/)
 * [Cristina Popescu's Solution (Easy)](https://github.com/CristinaAP/google-homepage) - [View in browser](https://cristinaap.github.io/google-homepage/)
 * [RoeVolt's Solution (Easy)](https://github.com/RoeVolt/google-homepage) - [View in Browser](https:https://roevolt.github.io/google-homepage/)
 * [Jacobo Martinez's Solution (Easy)](https://github.com/cobimr/webdev_101_projects/tree/master/google-easy) - [View in Browser](https://cobimr.github.io/webdev_101_projects/google-easy/)
@@ -1619,7 +1620,12 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Halkim44's Solution (Difficult)](https://github.com/halkim44/googleResultPage) - [View in Browser](https://halkim44.github.io/googleResultPage/)
 * [flee's solution ](https://github.com/flee/google-recreate/) - [View Easy in Browser](https://flee.github.io/google-recreate/) + [View Difficult in Browser](https://flee.github.io/google-recreate/res.html)
 * [Hassan's Solution (Easy)](https://github.com/husseyexplores/husseyexplores.google-homepage) - [View in Browser](https://husseyexplores.github.io/husseyexplores.google-homepage/)
+<<<<<<< HEAD
 * [Waheed Afolabi's Solution (Easy)](https://github.com/wptechprodigy/google_homepage) - [View in Browser](https://wptechprodigy.github.io/google_homepage/)
+=======
+* [endri2211's solution (Easy)](https://github.com/endri2211/google-homepage) - [View in Browser](https://endri2211.github.io/google-homepage/)
+* [endri2211's solution (Difficult)](https://github.com/endri2211/google-search) - [View in Browser](https://endri2211.github.io/google-search/)
+>>>>>>> e9e2ccf10a97b26defc78fe449684f90cf2927d9
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
